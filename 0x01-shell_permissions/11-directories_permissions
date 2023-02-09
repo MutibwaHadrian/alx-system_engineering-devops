@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+X ./i*
+chmod -R +111 */
