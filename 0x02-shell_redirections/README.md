@@ -1,11 +1,13 @@
-#Shell, I/O Redirection
+Shell, I/O Redirection
+
 *What do the commands head, tail, find, wc, sort, uniq, grep, tr do
 *How to redirect standard output to a file
 *How to get standard input from a file instead of the keyboard
 *How to send the output from one program to the input of another program
 *How to combine commands and filters with redirections
 
-##Bash scripts to automate Shell, I/O Redirection tasks
+Bash scripts to automate Shell, I/O Redirection tasks
+
 0. 0-hello_world - This script prints “Hello, World”
 1. 1-confused_smiley - This script displays a confused smiley "(Ôo)'.
 2. 2-hellofile - This script displays the content of the /etc/passwd file. 
